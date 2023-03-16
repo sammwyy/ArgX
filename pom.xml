@@ -1,15 +1,17 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <!-- Project artifact -->
-  <groupId>com.example</groupId>
-  <artifactId>myproject</artifactId>
-  <version>0.0.1</version>
+  <groupId>com.sammwy</groupId>
+  <artifactId>argx</artifactId>
+  <version>1.0.0</version>
 
   <!-- Project information -->
-  <name>myproject</name>
-  <description>This is just a boilerplate project.</description>
-  <url>http://www.example.com</url>
+  <name>argx</name>
+  <description>Object based Argument parser for CLI applications.</description>
+  <url>http://www.sammwy.com</url>
 
   <!-- Project build properties -->
   <properties>
