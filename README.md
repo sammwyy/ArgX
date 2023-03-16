@@ -43,7 +43,9 @@ public class Entity {
     @Argument(key = "e", description = "Is Enabled?")
     public boolean enabled;
 }
+```
 
+```java
 // Main.java
 String input = "--name sammwy -a 21 --enabled yes hello world";
 Entity entity = ArgX.parse(Entity.class, input);
