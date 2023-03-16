@@ -108,7 +108,7 @@ public class ArgXContext {
             if (out == null) {
                 out = raw;
             } else {
-                out = " " + raw;
+                out += " " + raw;
             }
         }
 

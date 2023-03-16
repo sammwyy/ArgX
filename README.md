@@ -22,7 +22,7 @@ Map command to schema class. Parse and validate.
     <dependency>
         <groupId>com.sammwy</groupId>
         <artifactId>argx</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </dependency>
 </dependencies>
 ```

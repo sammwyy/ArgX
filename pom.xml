@@ -6,7 +6,7 @@
   <!-- Project artifact -->
   <groupId>com.sammwy</groupId>
   <artifactId>argx</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <!-- Project information -->
   <name>argx</name>
